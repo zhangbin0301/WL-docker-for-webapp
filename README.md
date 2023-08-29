@@ -1,6 +1,6 @@
 自用项目，简单记录设置，防止忘掉
 
-先点击右边的Use this template创建私密库，然后修改dockerfile里面变量
+先点击右上边的Use this template创建私密库，然后修改dockerfile里面变量
 
 变量设置同 https://github.com/dsadsadsss/docker-for-codesandbox.git
 
