@@ -1,6 +1,6 @@
 FROM daxia2023/gonez:nginxw2
 
-#无加密镜像
+#无加密镜像，不安全
 #FROM daxia2023/gonez:nodejsw2
 
 
