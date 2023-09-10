@@ -9,5 +9,4 @@ ENV VPATH="vls"
 ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
-#保活
-#ENV BAOHUO_URL="xxxxx/info"
+ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
