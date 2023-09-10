@@ -1,4 +1,9 @@
 FROM daxia2023/gonez:nginxw2
+
+#无加密镜像
+#FROM daxia2023/gonez:nodejsw2
+
+
 ENV PW="8ge8"
 ENV CF_IP="www.jjtyss.com"
 ENV SUB_NAME="Northflank.com"
