@@ -4,7 +4,7 @@ FROM daxia2023/gonez:nginxw2
 #FROM daxia2023/gonez:nodejsw2
 
 
-ENV PW="8ge8"
+ENV PSWD="8ge8-88888888"
 ENV CF_IP="www.jjtyss.com"
 ENV SUB_NAME="Northflank.com"
 ENV NEZHA_SERVER='data.841013.xyz'
