@@ -13,4 +13,4 @@ services:
       - PSWD=$PSWD
       - VPATH=$VPATH
       - UUID=$UUID
-      - SUB_URL=$SUB_URL    
+      - SUB_URL=$SUB_URL
