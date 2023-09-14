@@ -1,8 +1,8 @@
 services:
   app:
     image: daxia2023/gonez:nginxw2
-    #ports:
-    # - "80:3000"
+     ports:
+     - "80:3000"
     environment:
       - SUB_NAME=$SUB_NAME
       - NEZHA_SERVER=$NEZHA_SERVER
