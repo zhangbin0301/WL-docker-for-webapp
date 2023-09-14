@@ -1,7 +1,7 @@
 services:
   app:
     image: daxia2023/gonez:nginxw2
-     ports:
+    ports:
      - "80:3000"
     environment:
       - SUB_NAME=$SUB_NAME
