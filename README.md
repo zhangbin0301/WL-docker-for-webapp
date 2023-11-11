@@ -45,6 +45,6 @@ ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c0789
 
 ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
 
-固定隧道，如果用vmess 隧道设成8001,vless隧道设成8002   固定隧道  TOK
+固定隧道，如果用vmess 隧道设成8001,vless隧道设成8002   固定隧道  TOK   固定隧道域名 ARGO_DOMAIN
 
 
