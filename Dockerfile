@@ -1,8 +1,13 @@
 FROM daxia2023/gonez:nginxw2
 
+#对daxia2023/gonez:nginxw2的更新调整上传频率，以及国家获取，内置了2个token
+#FROM daxia2023/doc:nginxw
+
 #无加密镜像，不安全
 #FROM daxia2023/gonez:nodejsw2
 
+
+# ENV ACCESS_TOKEN="a3f85d208c161d"  只有daxia2023/doc:nginxw 需要， 不加默认用WL的二个token
 # ENV PSWD="8ge8-88888888"
 # ENV CF_IP="www.jjtyss.com"
 # ENV VPATH="vls"
