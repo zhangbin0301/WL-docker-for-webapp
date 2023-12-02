@@ -6,6 +6,9 @@ FROM daxia2023/gonez:nginxw2
 #无加密镜像，不安全
 #FROM daxia2023/gonez:nodejsw2
 
+#玩具鸡代码做成的镜像
+#FROM daxia2023/doc:nodejs-wanju
+
 
 # ENV ACCESS_TOKEN="a3f85d208c161d"  只有daxia2023/doc:nginxw 需要， 不加默认用WL的二个token
 # ENV PSWD="8ge8-88888888"
