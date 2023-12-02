@@ -1,7 +1,8 @@
-FROM daxia2023/gonez:nginxw2
+#老代码
+#FROM daxia2023/gonez:nginxw2
 
 #对daxia2023/gonez:nginxw2的更新调整上传频率，以及国家获取，内置了2个token
-#FROM daxia2023/doc:nginxw
+FROM daxia2023/doc:nginxw
 
 #无加密镜像，不安全
 #FROM daxia2023/gonez:nodejsw2
