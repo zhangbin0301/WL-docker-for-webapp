@@ -48,3 +48,6 @@ ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
 固定隧道，如果用vmess 隧道设成8001,vless隧道设成8002   固定隧道  TOK   固定隧道域名 ARGO_DOMAIN
 
 
+## 一键部署 nodejs 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
