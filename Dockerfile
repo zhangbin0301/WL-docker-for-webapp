@@ -17,6 +17,7 @@ FROM daxia2023/doc:nginxw
 # ENV VPATH="vls"
 # ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 # ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
+# ENV FLIE_PATH=""
 
 
 # ENV NEZHA_SERVER='nazhe.841013.xyz'
