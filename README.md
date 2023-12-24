@@ -52,17 +52,25 @@ ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
 
 
 ## codesandbox直接连，或者反代 变量 要这样设置。
+
 ARGO_DOMAIN="mm7vym-8002.csb.app"   \\ 直链或者反代地址
+
 CF_DOMAIN="1"     \\ 控制临时开不开
+
 NEZHA_KEY="z2LujQcuNPPLU9PzOJ"
+
 NEZHA_SERVER="nazhe.841013.xyz"
+
 PSWD="8ge8-88888888"
+
 SUB_NAME="codesandbox-wl.io"
+
 SUB_URL="https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338"
+
 UUID="ea4909ef-7ca6-4b46-bf2e-6c07896ef338"
 
-
 ## 修改task.json内容如下
+
 {
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [],
