@@ -65,7 +65,7 @@ PSWD="8ge8-88888888"
 
 SUB_NAME="codesandbox-wl.io"
 
-SUB_URL="https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338"
+SUB_URL="https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338"
 
 UUID="ea4909ef-7ca6-4b46-bf2e-6c07896ef338"
 
