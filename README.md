@@ -55,7 +55,7 @@ ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
 
 ARGO_DOMAIN="mm7vym-8002.csb.app"   \\ 直链或者反代地址
 
-CF_DOMAIN="1"     \\ 控制临时开不开
+CF_DOMAIN="1"     \\ 1控制临时隧道关
 
 NEZHA_KEY="z2LujQcuNPPLU9PzOJ"
 
