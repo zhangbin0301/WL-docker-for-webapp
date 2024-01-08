@@ -53,6 +53,8 @@ ENV BAOHUO_URL="webapp-render-proton.onrender.com/info"
 
 ## codesandbox直接连，或者反代 变量 要这样设置。
 
+用FROM daxia2023/gonez:nginxw2
+
 ARGO_DOMAIN="mm7vym-8002.csb.app"   \\ 直链或者反代地址
 
 CF_DOMAIN="1"     \\ 1控制临时隧道关
